@@ -1,5 +1,5 @@
 # FEEGAM 正在尋找夥伴...
-我們是 FEEGAM (https://www.feegam.com)<br>
+我們是 FEEGAM (https://www.feegam.com)<br> 
 我們致力於打造提升運動場館觀賽體驗的SaaS新創團隊，成立於2020年。<br>
 成軍不到一年的時間內，已經在日本地區取得多家客戶導入成果。<br>
 為充實團隊開發能量，正式在台北辦公室招募技術團隊，<br>
