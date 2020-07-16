@@ -4,7 +4,7 @@
 成軍不到一年的時間內，已經在日本地區取得多家客戶導入成果。<br>
 為充實團隊開發能量，正式在台北辦公室招募技術團隊，<br>
 尋找有衝勁、具創意、富彈性、並且願意與我們一起邁向世界的夥伴。<br><br>
-如果你是這樣的人，歡迎將履歷寄至：<b>info@feegam.com</b><br><br>
+如果你是這樣的人，歡迎將履歷寄至：<b><a href="mailto:info@feegam.com">info@feegam.com</a></b><br><br>
 
 ### 我們在哪裡?
 FEEGAM 台北辦公室位於台北市忠孝東路與敦化南路交叉口<br>
@@ -45,10 +45,7 @@ FEEGAM 台北辦公室位於台北市忠孝東路與敦化南路交叉口<br>
 - 具 System Monitoring 經驗 (包含但不限於 Cloudwatch、Prometheus、Grafana)
 - 系統 scale 相關經驗
 
-<br>
-請將履歷寄至info@feegam.com
-<br><br>
-
+請將履歷寄至<a href="mailto:info@feegam.com">info@feegam.com</a>
 
 ### Front-End Developer 
 【你需要做什麼？】
@@ -70,7 +67,6 @@ FEEGAM 台北辦公室位於台北市忠孝東路與敦化南路交叉口<br>
 - 熟悉任一後端框架 (Rails is a big plus)
 - 熱衷技術分享與參與開源專案 (可提供github或blog)
 
-<br>
-請將履歷寄至 info@feegam.com
-<br>
+請將履歷寄至<a href="mailto:info@feegam.com">info@feegam.com</a>
+
 
