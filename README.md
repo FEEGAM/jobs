@@ -44,9 +44,11 @@ FEEGAM 台北辦公室位於台北市忠孝東路與敦化南路交叉口<br>
 - 具 Log Analytics與 Aggregation經驗
 - 具 System Monitoring 經驗 (包含但不限於 Cloudwatch、Prometheus、Grafana)
 - 系統 scale 相關經驗
+
 <br>
 請將履歷寄至info@feegam.com
 <br><br>
+
 
 ### Front-End Developer 
 【你需要做什麼？】
@@ -67,6 +69,8 @@ FEEGAM 台北辦公室位於台北市忠孝東路與敦化南路交叉口<br>
 - 具備測試經驗 (Jest, Mocha, Karma)
 - 熟悉任一後端框架 (Rails is a big plus)
 - 熱衷技術分享與參與開源專案 (可提供github或blog)
+
 <br>
 請將履歷寄至 info@feegam.com
 <br>
+
